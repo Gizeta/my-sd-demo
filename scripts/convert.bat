@@ -1,0 +1,2 @@
+python convert_original_stable_diffusion_to_diffusers.py --checkpoint_path="../models/anything-v4.0.ckpt" --original_config_file="./v1-inference.yaml"  --dump_path="../models"
+python convert_stable_diffusion_checkpoint_to_onnx.py --model_path="../models" --output_path="../models_onnx"

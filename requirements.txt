@@ -1,0 +1,9 @@
+accelerate==0.15.0
+diffusers @ git+https://github.com/huggingface/diffusers.git@09779cbb4046b0afa7cc3da043c928dc4866d59a
+omegaconf==2.3.0
+onnx==1.13.0
+onnxruntime==1.13.1
+onnxruntime-directml==1.13.1
+scipy==1.10.0
+torch==1.13.1
+transformers==4.26.0
